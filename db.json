@@ -2,34 +2,29 @@
   "logs": [
     {
       "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "message": "test 2",
+      "attention": false,
+      "tech": "Solo Mia",
+      "date": "2021-02-21T23:01:22.255Z"
     },
     {
       "id": 2,
-      "message": "Changed memory on 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Smithy"
+      "message": "df 2",
+      "attention": true,
+      "tech": "Tech User",
+      "date": "2021-02-21T23:00:46.009Z"
     }
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 2,
-      "firstName": "Sara",
-      "lastName": "Smithy"
+      "firstName": "Tech",
+      "lastName": "User",
+      "id": 1
     },
     {
       "firstName": "Solo",
       "lastName": "Mia",
-      "id": 3
+      "id": 2
     }
   ]
 }
